@@ -36,7 +36,7 @@ const articles: Article[] = [
     However, as AI becomes more powerful, questions about ethics, bias, and regulation become more pressing. Ensuring that AI systems are developed and deployed responsibly is a challenge that requires collaboration between technologists, policymakers, and society at large.
 
     The future of AI development will likely be shaped by these considerations, as well as by continued advances in computing power and algorithm design. As we move forward, the goal will be to harness the potential of AI to solve complex problems while mitigating risks and ensuring that the benefits are widely shared.`,
-    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmjHxyR5fHwwVjpExrYZiSXGhcl_66qqGFA&s",
+    coverImage: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOONFblxDcAklSRFeb2MxXLuUVmgKuPPh-A&s",
     date: "2023-04-15T10:00:00Z",
     author: "Dr. Sarah Chen",
     category: "Technology",
